@@ -17,7 +17,7 @@ else:
 
 print("Downloading Video....")
 video_to_download = ytVideo.streams.get_highest_resolution()  
-video_to_download.download("downloads/")
+video_to_download.download("yt-downloads/")
 print("Download Complete")
 
  

@@ -6,4 +6,5 @@ A tool for downloading Youtube Videos in your Local Machine. Tool made using pyt
 - Execute the python program. That's all.
 
 # Downloads
-The videos will be saved in a directory named `yt-downloads`
+- Copy the Video Link and paste it in the terminal.
+- The videos will be saved in a directory named `yt-downloads`.
